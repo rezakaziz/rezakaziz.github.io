@@ -1,25 +1,25 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+date = "2026-01-21"
+aliases = ["about-us", "about-rezak", "contact"]
+author = "Rezak AZIZ"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
+I’m an engineer who enjoys building **reliable systems** and understanding how things work beneath the surface.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+My background is rooted in **Linux systems, networking, and infrastructure**, and naturally evolved toward **DevOps and Site Reliability Engineering**. I work on designing, automating, and operating production environments using **containers, Kubernetes, CI/CD pipelines, and infrastructure as code**, with a strong focus on **reliability, observability, and simplicity**.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Alongside my engineering work, I conduct research in **trustworthy AI**, with a particular focus on **privacy-preserving and verifiable machine learning systems**. My work explores topics such as **federated learning, differential privacy, cryptographic verification, and zero-knowledge proofs**, aiming to build AI systems that are not only performant, but also **transparent, auditable, and worthy of trust**.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+This research mindset strongly influences how I approach engineering problems: questioning assumptions, measuring impact, and favoring long-term robustness over quick fixes.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+I care deeply about:
+- Automating repetitive work  
+- Making systems observable and predictable  
+- Reducing complexity instead of adding layers  
+- Building infrastructure and AI systems that engineers and users can trust  
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Outside of work, I enjoy experimenting with homelabs, learning by breaking and rebuilding systems, and sharing knowledge. I believe good engineering is less about chasing tools and more about **clarity, ownership, and resilience**.
+
+> I’m always curious, always learning, and always looking to build systems that scale — not just in size, but in reliability and trust.

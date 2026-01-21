@@ -61,3 +61,6 @@ enable = true
 # Google Analytics
   [services.googleAnalytics]
     #ID = 'G-MEASUREMENT_ID'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

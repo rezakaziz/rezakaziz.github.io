@@ -25,20 +25,26 @@ Remember that you can also specify a section header for the posts below by confi
 -->
 
 
-I’m an engineer who enjoys building **reliable systems** and understanding how things work beneath the surface.
+I’m an engineer who enjoys building systems where reliability, observability, security, and
+privacy are first-class concerns.
 
-My background is rooted in **Linux systems, networking, and infrastructure**, and naturally evolved toward **DevOps and Site Reliability Engineering**. I work on designing, automating, and operating production environments using **containers, Kubernetes, CI/CD pipelines, and infrastructure as code**, with a strong focus on **reliability, observability, and simplicity**.
+My focus is on designing and operating systems that remain understandable and trustworthy under real-world constraints: failures, adversarial behavior, and scale.
 
-Alongside my engineering work, I conduct research in **trustworthy AI**, with a particular focus on **privacy-preserving and verifiable machine learning systems**. My work explores topics such as **federated learning, differential privacy, cryptographic verification, and zero-knowledge proofs**, aiming to build AI systems that are not only performant, but also **transparent, auditable, and worthy of trust**.
+### Areas of work
 
-This research mindset strongly influences how I approach engineering problems: questioning assumptions, measuring impact, and favoring long-term robustness over quick fixes.
+- **Observability & Reliability**  
+> I design and operate observability foundations that make complex distributed
+systems understandable, detectable, and operable under real-world failure
+conditions.
 
-I care deeply about:
-- Automating repetitive work  
-- Making systems observable and predictable  
-- Reducing complexity instead of adding layers  
-- Building infrastructure and AI systems that engineers and users can trust  
+- **Security & Detection**  
+> I work on detection and response mechanisms that help systems remain secure
+under adversarial conditions, focusing on visibility, verification, and
+operational effectiveness rather than assumptions.
 
-Outside of work, I enjoy experimenting with homelabs, learning by breaking and rebuilding systems, and sharing knowledge. I believe good engineering is less about chasing tools and more about **clarity, ownership, and resilience**.
+- **Privacy & Trust**  
+> I integrate privacy-preserving and verifiable mechanisms into distributed
+systems, with a focus on realistic threat models, performance trade-offs, and
+operational constraints.
 
-> I’m always curious, always learning, and always looking to build systems that scale — not just in size, but in reliability and trust.
+## Latest Posts

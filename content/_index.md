@@ -47,4 +47,8 @@ operational effectiveness rather than assumptions.
 systems, with a focus on realistic threat models, performance trade-offs, and
 operational constraints.
 
-## Latest Posts
+
+
+📚 See my full list of publications on  **[Google Scholar](https://scholar.google.fr/citations?user=ytCEAQIAAAAJ)**.
+
+### Latest Posts

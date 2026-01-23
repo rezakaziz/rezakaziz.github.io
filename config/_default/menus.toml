@@ -22,19 +22,7 @@
   identifier = "activities"
   url = "/activities/"
 
-  [[main]]
-  name = "Research"
-  weight = 410
-  identifier = "Research"
-  url = "/research/"
-  parent = "activities"  
 
-  [[main]]
-  name = "Teaching"
-  weight = 420
-  identifier = "teaching"
-  url = "/teaching/"
-  parent = "activities"
 
   [[main]]
   name = "Accomplishments"

@@ -25,30 +25,6 @@ Remember that you can also specify a section header for the posts below by confi
 -->
 
 
-I’m an engineer who enjoys building systems where reliability, observability, security, and
-privacy are first-class concerns.
 
-My focus is on designing and operating systems that remain understandable and trustworthy under real-world constraints: failures, adversarial behavior, and scale.
-
-### Areas of work
-
-- **Observability & Reliability**  
-> I design and operate observability foundations that make complex distributed
-systems understandable, detectable, and operable under real-world failure
-conditions.
-
-- **Security & Detection**  
-> I work on detection and response mechanisms that help systems remain secure
-under adversarial conditions, focusing on visibility, verification, and
-operational effectiveness rather than assumptions.
-
-- **Privacy & Trust**  
-> I integrate privacy-preserving and verifiable mechanisms into distributed
-systems, with a focus on realistic threat models, performance trade-offs, and
-operational constraints.
-
-
-
-📚 See my full list of publications on  **[Google Scholar](https://scholar.google.fr/citations?user=ytCEAQIAAAAJ)**.
-
-### Latest Posts
+## Latest Posts
+---

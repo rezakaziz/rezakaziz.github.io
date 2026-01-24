@@ -7,21 +7,18 @@ title = 'Accomplishments'
 ## Education
 - **2025 — PhD in Computer Science**, CNAM Paris  
   [[Read more →]](/data/accomplishments/phd-computer-science) ·
-  [[Abstract]](/assets/documents/education/PhD_Abstract_Rezak_Aziz.pdf) ·
-  [[Thesis]](/assets/documents/education/PhD_Thesis_Rezak_Aziz.pdf) ·
-  [[Slides]](/assets/documents/education/PhD_Thesis_Rezak_Aziz.pdf)
+  [[Thesis]]() ·
+  [[Slides]](/documents/accomplishments/Slides_Phd.pdf)
 
 - **2022 -- Engineering Degree in Computer Science**, ESI Algiers  
   [[Read more →]](/data/accomplishments/ingenieur-computer-science) ·
-  [[Abstract]](/assets/documents/education/PhD_Abstract_Rezak_Aziz.pdf) ·
-  [[Thesis]](/assets/documents/education/PhD_Thesis_Rezak_Aziz.pdf) ·
-  [[Slides]](/assets/documents/education/PhD_Thesis_Rezak_Aziz.pdf)
+  [[Thesis]](/documents/accomplishments/Rapport_PFE.pdf) ·
+  [[Slides]](/documents/accomplishments/PrésentationPFE.pdf)
 
 - **2022 -- Master Degree in Computer Science**, ESI Algiers  
   [[Read more →]](/data/accomplishments/master-computer-science) ·
-  [[Abstract]](/assets/documents/education/PhD_Abstract_Rezak_Aziz.pdf) ·
-  [[Thesis]](/assets/documents/education/PhD_Thesis_Rezak_Aziz.pdf) ·
-  [[Slides]](/assets/documents/education/PhD_Thesis_Rezak_Aziz.pdf)
+  [[Thesis]](/documents/accomplishments/Rapport_Master.pdf) ·
+  [[Poster]](/documents/accomplishments/PosterMaster.pdf)
 
 
 ## Certifications

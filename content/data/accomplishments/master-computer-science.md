@@ -54,7 +54,7 @@ The state-of-the-art analysis reveals:
 - high computational overhead introduced by cryptographic operations,
 - simplifying assumptions that do not hold in realistic system settings.
 
-These gaps motivated further work beyond the scope of this thesis.
+These gaps motivated further work beyond the scope of this thesis, see my [article](/data/accomplishments/ingenieur-computer-science/) on my engineer thesis for more informations. 
 
 
 

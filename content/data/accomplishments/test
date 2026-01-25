@@ -1,0 +1,60 @@
+## 🔐 Privacy-Preserving Computation
+
+A central concept explored in this thesis is **Homomorphic Encryption**.
+
+This cryptographic technique allows computations to be performed directly on **encrypted data**, meaning:
+- raw data is never exposed to the cloud,
+- processing can be outsourced securely,
+- only authorized parties can decrypt the results.
+
+While promising, homomorphic encryption introduces strong constraints that significantly impact how data analysis algorithms can be designed and executed.
+
+
+```mermaid
+flowchart LR
+    
+    subgraph Client
+        direction LR
+        subgraph RC[ ]
+            ERc[Encrypted Results] -->|Decrypt| R[Plain Results]
+        end
+        subgraph DC[ ]
+            D[Plain Data] -->|Encrypt| EDc[Encrypted Data]
+        end
+    end
+subgraph Cloud
+        direction TB
+        subgraph Dcloud[ ]
+            EDcl[Encrypted Data]
+        end
+        subgraph Rcloud[ ]
+            ERcl[Encrypted Results]
+        end
+        Dcloud -->|Encrypted Computation| Rcloud
+    end
+    
+   DC -->|Send Encrypted Data| Dcloud
+   Rcloud -->|Send Encrypted Results| RC
+
+```
+
+
+
+---
+
+## 🧩 The Reality of Missing Data
+
+In real-world systems, data is rarely complete:
+- sensors may malfunction,
+- values may be lost during transmission,
+- users may omit information.
+
+Most clustering algorithms assume complete datasets, which limits their applicability in practice.
+
+This thesis examines how existing clustering techniques address:
+- **missing values**,
+- **cryptographic computation constraints**,
+- and the combination of both challenges.
+
+
+---

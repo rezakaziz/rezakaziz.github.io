@@ -79,4 +79,4 @@ title = "e-mail"
 url = "mailto:rezak.aziz.pro@outlook.fr"
 
 [mermaid]
-# enable = true
+enable = true

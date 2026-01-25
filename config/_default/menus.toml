@@ -13,10 +13,10 @@
 
 
   [[main]]
-  name = "About"
+  name = "Activities"
   weight = 400
-  identifier = "about"
-  url = "/about/"
+  identifier = "activities"
+  url = "/activities/"
 
 
 

@@ -1,7 +1,7 @@
 +++
 date = '2026-01-23T11:15:39+01:00'
 draft = false
-title = 'About'
+title = 'Activities'
 +++
 
 I’m an engineer who enjoys building systems where reliability, observability, security, and

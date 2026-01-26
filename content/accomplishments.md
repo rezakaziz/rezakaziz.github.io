@@ -22,6 +22,8 @@ title = 'Accomplishments'
 
 
 ## Certifications
+**2026**
+- [**Digital Twins**](https://coursera.org/share/18496979fda06f8ecf8922c4197bc050), University of Michigan  
 **2025**
 - [**Fundamentals of Red Hat Enterprise Linux**](https://coursera.org/share/74c988c9cbc23c40fc7635b4ab65e62b), RedHat  
 - [**Introduction to Containers w/ Docker, Kubernetes & OpenShift**](https://coursera.org/share/21e66c25fd5bfd2a1f82dadfa0e02365), IBM  

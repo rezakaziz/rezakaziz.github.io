@@ -3,7 +3,7 @@ title: "When the Map No Longer Matches the Territory"
 date: 2026-01-27T11:18:10+01:00
 Description: ""
 Tags: ["Digital Twins", "Observability", "Monitoring","Infrastructure","Reliability"]
-Categories: ["Observability & Reliability"]
+Categories: ["Observability"]
 DisableComments: false
 ---
 In the context of my new role within the [BATTwin project](https://battwin.net/), I have been thinking about how we observe systems and how far observation alone can take us. Working on reliability and industrial adoption quickly reveals a recurring pattern: we see problems, but often too late.

@@ -2,8 +2,8 @@
 title: "Why Threat Models Matter in Security Research ?"
 date: 2026-03-11T16:30:16+01:00
 Description: ""
-Tags: []
-Categories: []
+Tags: ["threat-modeling", "cybersecurity", "security-research"]
+Categories: ["Cybersecurity"]
 DisableComments: false
 ---
 

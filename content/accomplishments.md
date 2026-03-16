@@ -25,6 +25,7 @@ title = 'Accomplishments'
 
 **2026**
 
+- [**Modelling Threats - Strategies in Threat Modelling**](https://coursera.org/share/90d2f01bd7fa5bf6ada9ba97289cc5a6), Packt
 - [**Digital Twins**](https://coursera.org/share/18496979fda06f8ecf8922c4197bc050), University of Michigan
 
 **2025**

@@ -72,15 +72,16 @@ title = "GitHub"
 url = "https://github.com/rezakaziz/"
 
 
+[[socialIcons]]
+icon = "fa-solid <i class="fa-brands fa-google-scholar"></i>"
+title = "Google Scholar"
+url = "https://scholar.google.fr/citations?user=ytCEAQIAAAAJ&hl"
 
 [[socialIcons]]
 icon = "fa-solid fa-envelope"
 title = "e-mail"
 url = "mailto:rezak.aziz.pro@outlook.fr"
 
-[[socialIcons]]
-icon = "fa-solid fa-graduation-cap"
-title = "Google Scholar"
-url = "https://scholar.google.fr/citations?user=ytCEAQIAAAAJ&hl"
+
 [mermaid]
 enable = true

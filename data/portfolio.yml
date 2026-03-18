@@ -3,6 +3,41 @@ portfolioitems:
   - title: Coding Projects
     description: "Engineering projects focused on systems, DevOps, and full-stack development"
     portfolioitem:
+      - name: Orthoman
+        image: "/images/portfolio/code.jpg"
+        link: ""
+        linktext: "View project"
+        description: "A full-stack medical cabinet management application built with Django, PostgreSQL, and React. It includes patient management, scheduling, billing, chat, and real-time synchronization."
+        tags:
+          - Django
+          - React
+          - PostgreSQL
+          - Docker
+          - Redis
+          - DevOps
+        status: "In Progress"
+        start: "2025"
+        authors:
+          - Rezak AZIZ
+      - name: Lykio
+        image: "/images/portfolio/code.jpg"
+        link: "https://github.com/rezakaziz/Lykeio-Linux"
+        linktext: "View project"
+        description: "A custom lightweight Linux distribution designed for educational environments. It enables the reuse of obsolete hardware by transforming machines into efficient thin clients, reducing costs and improving accessibility."
+        tags:
+          - Linux
+          - System Design
+          - Bash
+          - Networking
+        status: "Finished"
+        start: "2021"
+        end: "2022"
+        authors:
+          - Rezak AZIZ
+          - Narimane Hennouni
+          - Nour El Hassane
+          - Amine Raiah
+          - Nassim Sehdi
       - name: VM-Manager
         image: "/images/portfolio/code.jpg"
         link: ""
@@ -15,44 +50,11 @@ portfolioitems:
           - Virtualization
           - Systems Engineering
         status: "Finished"
-        start: "2022"
-        end: "2023"
-        authors:
-          - yourname
-
-      - name: Lykio-Linux
-        image: "/images/portfolio/code.jpg"
-        link: ""
-        linktext: "View project"
-        description: "A custom lightweight Linux distribution designed for educational environments. It enables the reuse of obsolete hardware by transforming machines into efficient thin clients, reducing costs and improving accessibility."
-        tags:
-          - Linux
-          - System Design
-          - Bash
-          - Networking
-          - Education
-        status: "Finished"
         start: "2021"
         end: "2022"
         authors:
-          - yourname
-
-      - name: Orthoman
-        image: "/images/portfolio/code.jpg"
-        link: ""
-        linktext: "View project"
-        description: "A full-stack medical cabinet management application built with Django, PostgreSQL, and React. It includes patient management, scheduling, billing, and real-time synchronization with legacy systems using Kafka and Debezium."
-        tags:
-          - Django
-          - React
-          - PostgreSQL
-          - Docker
-          - Kafka
-          - DevOps
-        status: "In Progress"
-        start: "2024"
-        authors:
-          - yourname
+          - Rezak AZIZ
+          - Lotfi Abdelkrim MECHARBAT
 
   # portfolio category
   - title: Research
@@ -64,11 +66,10 @@ portfolioitems:
         tags:
           - Federated Learning
           - Differential Privacy
-          - PyTorch
           - Privacy
         status: "Finished"
-        start: "2023"
-        end: "2024"
+        start: "2024"
+        end: "2025"
 
       - name: zkSnarkDP
         image: "/images/portfolio/code.jpg"
@@ -78,16 +79,6 @@ portfolioitems:
           - Cryptography
           - Differential Privacy
           - Security
-        status: "In Progress"
-        start: "2024"
-
-      - name: zkSnarkDP (Extended Framework)
-        image: "/images/portfolio/code.jpg"
-        link: ""
-        description: "An extended framework enhancing trust in central differential privacy using zk-SNARKs and cryptographic hashes, enabling verifiable privacy guarantees in distributed systems."
-        tags:
-          - ZK-SNARKs
-          - Cryptographic Hashing
-          - Federated Learning
-          - Research
-        status: "In Progress"
+        status: "Finished"
+        start: "2023"
+        end: "2024"

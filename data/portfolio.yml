@@ -19,7 +19,7 @@ portfolioitems:
         start: "2025"
         authors:
           - Rezak AZIZ
-      - name: Lykio
+      - name: Lykeio
         image: "/images/portfolio/code.jpg"
         link: "https://github.com/rezakaziz/Lykeio-Linux"
         linktext: "View project"

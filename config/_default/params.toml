@@ -78,5 +78,9 @@ icon = "fa-solid fa-envelope"
 title = "e-mail"
 url = "mailto:rezak.aziz.pro@outlook.fr"
 
+[[socialIcons]]
+icon = "fa-solid fa-graduation-cap"
+title = "Google Scholar"
+url = "https://scholar.google.fr/citations?user=ytCEAQIAAAAJ&hl"
 [mermaid]
 enable = true

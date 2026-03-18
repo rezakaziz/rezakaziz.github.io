@@ -8,7 +8,7 @@ title = 'Accomplishments'
 
 - **2025 — PhD in Computer Science**, CNAM Paris  
   [[Read more →]](/data/accomplishments/phd-computer-science) ·
-  [[Thesis]]() ·
+  [[Thesis]](/documents/accomplishments/Thesis_Phd.pdf) ·
   [[Slides]](/documents/accomplishments/Slides_Phd.pdf)
 
 - **2022 -- Engineering Degree in Computer Science**, ESI Algiers  

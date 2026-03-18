@@ -40,7 +40,7 @@ portfolioitems:
           - Nassim Sehdi
       - name: VM-Manager
         image: "/images/portfolio/code.jpg"
-        link: ""
+        link: "https://github.com/rezakaziz/VM-Manager"
         linktext: "View project"
         description: "A Python-based virtual machine management tool built on top of libvirt. It allows creation, monitoring, and orchestration of KVM virtual machines through a simplified interface, designed to improve infrastructure control and automation."
         tags:

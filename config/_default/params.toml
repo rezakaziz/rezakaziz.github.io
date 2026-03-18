@@ -73,7 +73,7 @@ url = "https://github.com/rezakaziz/"
 
 
 [[socialIcons]]
-icon = "fa-solid <i class="fa-brands fa-google-scholar"></i>"
+icon = "fa-brands fa-google-scholar"
 title = "Google Scholar"
 url = "https://scholar.google.fr/citations?user=ytCEAQIAAAAJ&hl"
 

@@ -1,7 +1,7 @@
 +++
 date = '2026-01-24T17:00:48+01:00'
 draft = false
-title = 'Phd Computer Science'
+title = 'Verifiable and Privacy-Preserving Federated Learning through Differential Privacy and  Cryptographic Protocols'
 +++
 
 During my **PhD in Computer Science**, I conducted research on a central and unresolved problem in modern machine learning systems:
@@ -44,40 +44,7 @@ Even without raw data sharing:
 
 This reveals a key insight:
 
-> **Federated Learning provides privacy by design — but not privacy by guarantee.**
-
----
-
-## 🔐 Core Challenges
-
-From an engineering and system perspective, three major challenges arise:
-
-### 1. Information Leakage
-
-Gradients and model updates can reveal:
-
-- training samples,
-- user attributes,
-- or dataset membership.
-
-### 2. Trust Assumptions
-
-Most existing systems assume:
-
-- an honest or semi-honest server,
-- which is often unrealistic in real-world deployments.
-
-### 3. Lack of Verifiability
-
-There is **no mechanism to prove** that:
-
-- differential privacy was correctly applied,
-- aggregation was done properly,
-- or the system behaves as claimed.
-
-As a result:
-
-> **Users and regulators are forced to trust — without the ability to verify.**
+> **Federated Learning is only a first layer to privacy by design.**
 
 ---
 
@@ -94,12 +61,12 @@ However:
 - DP introduces a **privacy–utility trade-off**,
 - and requires trusting the entity that applies the noise.
 
-To address these limitations, this work explores the combination of:
+To address these limitations and reduce the trade-offs, this work explores the combination of:
 
-- **Differential Privacy (DP)** → formal privacy guarantees
-- **Homomorphic Encryption (HE)** → protection of computations
-- **Zero-Knowledge Proofs (ZKPs)** → verifiability without disclosure
-- **Secret Sharing** → decentralization of trust
+- **Differential Privacy (DP)**
+- **Homomorphic Encryption (HE)**
+- **Zero-Knowledge Proofs (ZKPs)**
+- **Secret Sharing**
 
 ---
 

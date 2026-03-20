@@ -72,7 +72,7 @@ portfolioitems:
         end: "2025"
 
       - name: zkSnarkDP
-        image: "/images/portfolio/code.jpg"
+        image: "/images/portfolio/zksnarkdp.png"
         description: "A research project combining zero-knowledge proofs (zk-SNARKs) with differential privacy to provide verifiable and trustworthy aggregation in federated learning systems without exposing sensitive data."
         tags:
           - Zero-Knowledge Proofs

@@ -20,7 +20,7 @@ portfolioitems:
         authors:
           - Rezak AZIZ
       - name: Lykeio
-        image: "/images/portfolio/code.jpg"
+        image: "/images/portfolio/lykeio.png"
         link: "https://github.com/rezakaziz/Lykeio-Linux"
         linktext: "View project"
         description: "A custom lightweight Linux distribution designed for educational environments. It enables the reuse of obsolete hardware by transforming machines into efficient thin clients, reducing costs and improving accessibility."

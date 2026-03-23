@@ -25,6 +25,7 @@ title = 'Accomplishments'
 
 **2026**
 
+- [**CISSP Domain 1: Security and Risk Management**](https://coursera.org/share/c49ec092eabba0eb9dee0f874b13a7c9), Infosec
 - [**Modelling Threats - Strategies in Threat Modelling**](https://coursera.org/share/90d2f01bd7fa5bf6ada9ba97289cc5a6), Packt
 - [**Digital Twins**](https://coursera.org/share/18496979fda06f8ecf8922c4197bc050), University of Michigan
 

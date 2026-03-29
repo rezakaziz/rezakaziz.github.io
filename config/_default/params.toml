@@ -1,13 +1,69 @@
 
-title = "I'm Rezak AZIZ"
+title = "Rezak AZIZ"
 author = "Rezak AZIZ"
 copyright = "2025-{{ YEAR }}"
 description = """
-Security & Privacy Infrastructure Engineer
+Cybersecurity and Infrastructure Engineer
 I automate and secure complex systems, from infrastructure to data.
 """
 profilePicture = "images/maphoto.jpg"
-keywords = ""
+keywords = [
+  "DevOps",
+  "Cybersecurity",
+  "Engineer",
+  "Infrastructure",
+  "Systems",
+  "Reliability",
+  "Security",
+  "Architecture",
+  "Automation",
+  "Platform",
+  "Docker",
+  "Kubernetes",
+  "Ansible",
+  "Terraform",
+  "CI/CD",
+  "Cloud",
+  "Containers",
+  "Orchestration",
+  "Monitoring",
+  "Deployment",
+  "Observability",
+  "Logging",
+  "Tracing",
+  "Metrics",
+  "Alerting",
+  "Prometheus",
+  "Grafana",
+  "SRE",
+  "Detection",
+  "Threats",
+  "Defense",
+  "Risk",
+  "Compliance",
+  "Vulnerability",
+  "Cryptography",
+  "ZeroKnowledge",
+  "Privacy",
+  "Research",
+  "PhD",
+  "Publications",
+  "Algorithms",
+  "Distributed",
+  "AI",
+  "Machine Learning",
+  "Data",
+  "Modeling",
+  "Networking",
+  "BGP",
+  "MPLS",
+  "SDN",
+  "Protocols",
+  "Expert",
+  "Consultant",
+  "Specialist",
+  "Architect"
+]
 favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []
@@ -22,7 +78,7 @@ doNotLoadAnimations = false
 # Google Fonts
 #googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
 # Google Site Verify
-#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+googleSiteVerify = "ULlYJuy_trXX3df7-qHNMyGWfQG7ajwBjxKVOei3510"
 singleDateFormat = "2/1/2006"
 indexDateFormat = "2/1/2006"
 listDateFormat = "2/1/2006"

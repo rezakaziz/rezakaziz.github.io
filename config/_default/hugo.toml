@@ -2,7 +2,7 @@ baseURL = "https://rezakaziz.github.io/"
 
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Rezak's Website"
+title = "Rezak AZIZ | Cybersecurity and Infrastructure Engineer | PhD"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"

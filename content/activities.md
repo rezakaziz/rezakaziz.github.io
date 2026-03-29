@@ -1,7 +1,8 @@
 +++
 date = '2026-01-23T11:15:39+01:00'
 draft = false
-title = 'Activities'
+title = 'Activities '
+description = 'DevOps engineer and researcher specializing in observability, reliability, cybersecurity, and privacy-preserving systems. Teaching and research in distributed systems and network security.'
 +++
 
 I’m an engineer who enjoys building systems where reliability, observability, security, and

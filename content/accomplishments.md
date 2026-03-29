@@ -2,7 +2,11 @@
 date = '2026-01-24T16:47:27+01:00'
 draft = false
 title = 'Accomplishments'
+description = 'PhD in Computer Science (CNAM Paris), DevOps engineer with certifications in Docker, Kubernetes, Ansible, and Network Security. View education, certifications, and awards.'
+keywords = ['DevOps engineer', 'PhD computer science Paris', 'Docker Kubernetes certifications', 'Ansible engineer', 'network security certifications']
 +++
+
+This page presents my academic background, professional certifications, as well as my awards and achievements in computer science and DevOps engineering.
 
 ## Education
 

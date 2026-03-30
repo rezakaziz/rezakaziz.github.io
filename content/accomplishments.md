@@ -30,6 +30,7 @@ This page presents my academic background, professional certifications, as well 
 **2026**
 
 - [**Google Network Security Specialization**](https://coursera.org/share/8253f499b4c4643c19c526c4cce612c5), Google
+- [**IBM DevOps, Cloud, and Agile Foundations Specialization**](https://coursera.org/share/9fb37f8138e1f2ae728ac3d41c6e8aac), IBM
 - [**CISSP Domain 1: Security and Risk Management**](https://coursera.org/share/c49ec092eabba0eb9dee0f874b13a7c9), Infosec
 - [**Modelling Threats - Strategies in Threat Modelling**](https://coursera.org/share/90d2f01bd7fa5bf6ada9ba97289cc5a6), Packt
 - [**Digital Twins**](https://coursera.org/share/18496979fda06f8ecf8922c4197bc050), University of Michigan
@@ -38,8 +39,6 @@ This page presents my academic background, professional certifications, as well 
 
 - [**Fundamentals of Red Hat Enterprise Linux**](https://coursera.org/share/74c988c9cbc23c40fc7635b4ab65e62b), RedHat
 - [**Introduction to Containers w/ Docker, Kubernetes & OpenShift**](https://coursera.org/share/21e66c25fd5bfd2a1f82dadfa0e02365), IBM
-- [**Introduction to Agile Development and Scrum**](https://coursera.org/share/c3fc0747b091f7ba9e2330932ad795a1), IBM
-- [**Introduction to DevOps**](https://coursera.org/share/6ddc13dca50dc3d822f4763bc92fa1a3), IBM
 - [**Fundamentals of Ansible**](https://coursera.org/share/b1d8747052cecb6b2546ca1377344090), RedHat
 
 **2023**

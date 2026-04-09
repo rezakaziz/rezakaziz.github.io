@@ -4,7 +4,7 @@ portfolioitems:
     description: "Engineering projects focused on systems, DevOps, and full-stack development"
     portfolioitem:
       - name: Orthoman
-        image: "/images/portfolio/code.jpg"
+        image: "/images/portfolio/orthoman.png"
         link: ""
         linktext: "View project"
         description: "A full-stack medical cabinet management application built with Django, PostgreSQL, and React. It includes patient management, scheduling, billing, chat, and real-time synchronization."

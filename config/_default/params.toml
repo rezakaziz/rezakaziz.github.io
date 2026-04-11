@@ -4,7 +4,6 @@ author = "Rezak AZIZ"
 copyright = "2025-{{ YEAR }}"
 description = """
 Cybersecurity and Infrastructure Engineer | PhD
-I automate and secure complex systems, from infrastructure to data.
 """
 profilePicture = "images/rezak-aziz.jpg"
 keywords = [
@@ -66,7 +65,7 @@ keywords = [
 ]
 favicon = "favicons/"
 # example ["css/custom.css"]
-customCss = []
+customCss = ["css/custom.css"]
 # example ["js/custom.js"]
 customJs = [] 
 mainSections = ["post"]
@@ -97,10 +96,10 @@ listDateFormat = "2/1/2006"
 
 reversepagetitle = true # When set to 'true', the Window Title will be reversed to 'Title | Author' instead of the default 'Author | Title'
 
-# hidesidebar = true
+#hidesidebar = true
 
 # Sidebar/Content Ratio
-# contentratio = 0.6
+#contentratio = 0.25
 
 [simpleAnalytics]
 enable = true

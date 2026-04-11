@@ -6,7 +6,7 @@ description = 'PhD in Computer Science (CNAM Paris), DevOps engineer with certif
 keywords = ['DevOps engineer', 'PhD computer science Paris', 'Docker Kubernetes certifications', 'Ansible engineer', 'network security certifications']
 +++
 
-This page presents my academic background, professional certifications, as well as my awards and achievements in computer science and DevOps engineering.
+This page presents my academic background, professional certifications.
 
 ## Education
 

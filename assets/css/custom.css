@@ -1,21 +1,49 @@
-/* Reduce sidebar width */
-.wrapper__sidebar {
-  width: 300px !important;
+/* =========================
+   DESKTOP (>= 768px)
+========================= */
+@media (min-width: 768px) {
+  .wrapper__sidebar {
+    width: 300px;
+  }
+
+  .wrapper__main {
+    max-width: none;
+    width: calc(100% - 300px);
+    margin-right: 0;
+  }
+
+  .wrapper__main--fullscreen {
+    margin-left: 300px;
+    width: calc(100% - 300px);
+  }
+
+  .wrapper__main--fullscreen .post {
+    max-width: 800px;
+    margin-right: auto;
+    width: 100%;
+  }
 }
 
-.wrapper__main {
-  max-width: none !important;
-  width: calc(100% - 300px) !important;
-  margin-right: 0 !important;
-}
+/* =========================
+   MOBILE (< 768px)
+========================= */
+@media (max-width: 767px) {
+  .wrapper {
+    flex-direction: column;
+  }
 
-/* Keep header aligned even when sidebar is hidden */
-.wrapper__main--fullscreen {
-  margin-left: 300px !important; /* same as sidebar width */
-  width: calc(100% - 300px);
-}
-.wrapper__main--fullscreen .post {
-  max-width: 800px; /* adjust: 700–900px */
-  margin-right: auto;
-  width: 100%;
+  .wrapper__sidebar {
+    width: 100%;
+  }
+
+  .wrapper__main,
+  .wrapper__main--fullscreen {
+    width: 100%;
+    margin: 0;
+  }
+
+  .wrapper__main--fullscreen .post {
+    max-width: 100%;
+    padding: 0 15px;
+  }
 }

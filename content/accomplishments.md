@@ -10,17 +10,17 @@ This page presents my academic background, professional certifications.
 
 ## Education
 
-- **2025 — PhD in Computer Science**, CNAM Paris  
+- **2025 — PhD in Computer Science (Cybersecurity)**, CNAM Paris  
   [[Read more →]](/data/accomplishments/phd-computer-science) ·
   [[Thesis]](/documents/accomplishments/Thesis_Phd.pdf) ·
   [[Slides]](/documents/accomplishments/Slides_Phd.pdf)
 
-- **2022 -- Engineering Degree in Computer Science**, ESI Algiers  
+- **2022 -- Engineering Degree in Computer Systems**, ESI Algiers  
   [[Read more →]](/data/accomplishments/ingenieur-computer-science) ·
   [[Thesis]](/documents/accomplishments/Rapport_PFE.pdf) ·
   [[Slides]](/documents/accomplishments/PrésentationPFE.pdf)
 
-- **2022 -- Master Degree in Computer Science**, ESI Algiers  
+- **2022 -- Master Degree in Computer Systems**, ESI Algiers  
   [[Read more →]](/data/accomplishments/master-computer-science) ·
   [[Thesis]](/documents/accomplishments/Rapport_Master.pdf) ·
   [[Poster]](/documents/accomplishments/PosterMaster.pdf)

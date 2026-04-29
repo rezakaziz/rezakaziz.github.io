@@ -42,6 +42,25 @@ portfolioitems:
           - Nour El Hassane
           - Amine Raiah
           - Nassim Sehdi
+      - name: Hospital IDS Deployment (Snort)
+        image: "/images/portfolio/snort.jpeg"
+        link: "/documents/portfolio/SNORT.pdf"
+        linktext: "View Report"
+        description: "Design and deployment of a network-based intrusion detection system (NIDS) using Snort within a hospital infrastructure. The project involved analyzing the existing network architecture, positioning the IDS strategically, configuring a Linux-based gateway, and implementing rule-based detection for real-time monitoring of network traffic. It included malware analysis, custom rule creation, and validation through simulated attacks. The solution enhanced the security posture of the hospital by enabling continuous monitoring and alerting of suspicious activities."
+        tags:
+          - Cybersecurity
+          - Network Security
+          - IDS
+          - Snort
+          - Linux
+          - Networking
+          - Malware Analysis
+        status: "Finished"
+        start: "2021"
+        end: "2021"
+        authors:
+          - Rezak AZIZ
+          - Lounes MECHOUEK
       - name: VM-Manager
         image: "/images/portfolio/vm-manager.jpg"
         link: "https://github.com/rezakaziz/VM-Manager"
@@ -66,6 +85,8 @@ portfolioitems:
     portfolioitem:
       - name: PrivatumFL
         image: "/images/portfolio/code.jpg"
+        link: "https://github.com/rezakaziz/PrivatumFL"
+        linktext: "View Code"
         description: "A federated learning framework integrating central differential privacy to ensure data confidentiality during distributed training. Focused on balancing privacy guarantees with model utility across multiple datasets."
         tags:
           - Federated Learning
@@ -77,6 +98,8 @@ portfolioitems:
 
       - name: zkSnarkDP
         image: "/images/portfolio/zksnarkdp.png"
+        link: "https://github.com/rezakaziz/zkSnarkDP"
+        linktext: "View Code"
         description: "A research project combining zero-knowledge proofs (zk-SNARKs) with differential privacy to provide verifiable and trustworthy aggregation in federated learning systems without exposing sensitive data."
         tags:
           - Zero-Knowledge Proofs

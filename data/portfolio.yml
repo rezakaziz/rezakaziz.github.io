@@ -7,14 +7,18 @@ portfolioitems:
         image: "/images/portfolio/orthoman.png"
         link: ""
         linktext: "View project"
-        description: "A full-stack medical cabinet management application built with Django, PostgreSQL, and React. It includes patient management, scheduling, billing, chat, and real-time synchronization."
+        description: "A cloud-native full-stack medical cabinet management application built with Django, PostgreSQL, and React. The platform is containerized using Docker and leverages Redis for real-time features and caching. It supports patient management, scheduling, billing, chat, and real-time synchronization. The application is deployed in a medical cabinet and actively maintained in production. It follows modern DevOps practices with automated CI/CD pipelines powered by GitHub Actions for continuous integration, testing, and deployment, ensuring scalability, reliability, and rapid delivery."
         tags:
           - Django
           - React
           - PostgreSQL
           - Docker
           - Redis
+          - CI/CD
+          - GitHub Actions
+          - Cloud Native
           - DevOps
+          - Production
         status: "In Progress"
         start: "2025"
         authors:

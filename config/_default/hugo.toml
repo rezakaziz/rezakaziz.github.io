@@ -64,3 +64,9 @@ enable = true
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[sitemap]
+  changeFreq = ''
+  disable = false
+  filename = 'sitemap.xml'
+  priority = -1

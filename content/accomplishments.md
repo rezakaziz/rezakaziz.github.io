@@ -29,6 +29,7 @@ This page presents my academic background, professional certifications.
 
 **2026**
 
+- [**Python for Cybersecurity Specialization**](https://coursera.org/share/7e1f941fbb18984ae8982c205ed73de1), Infosec
 - [**Google Network Security Specialization**](https://coursera.org/share/8253f499b4c4643c19c526c4cce612c5), Google
 - [**IBM DevOps, Cloud, and Agile Foundations Specialization**](https://coursera.org/share/9fb37f8138e1f2ae728ac3d41c6e8aac), IBM
 - [**CISSP Domain 1: Security and Risk Management**](https://coursera.org/share/c49ec092eabba0eb9dee0f874b13a7c9), Infosec

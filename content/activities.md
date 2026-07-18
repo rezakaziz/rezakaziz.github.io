@@ -45,17 +45,20 @@ My research activities are driven by a strong interest in building reliable, tru
 
 At the moment, I am teaching:
 
-- **2024–2026 – Network Operations, Virtualization, and Automation** (Master: Networks and Connected Objects) — Lab sessions only  
-  Topics: BGP, MPLS/VPN, Traffic Engineering, Software-Defined Networking (SDN)
+- **2025–2026 – Software and Hardware Infrastructure Security** (University Degree) – **Université Paris Cité**  
+  Topics: operating system security, Linux security, authentication and authorization, privilege management, process isolation, memory protection, system hardening, vulnerability assessment, application security, and secure system administration.
 
-- **2025–2026 – Advanced Programming** (Engineering Program: FIP2)  
-  Topics: design patterns, SOLID principles, dependency injection, and advanced object-oriented programming (OOP)
+- **2024–2026 – Network Operations, Virtualization, and Automation** (Master's Program in Networks and Connected Objects) – **CNAM Paris and Sorbonne University** _(Lab sessions only)_  
+  Topics: BGP, MPLS/VPN, Traffic Engineering, Software-Defined Networking (SDN), network virtualization, and automation.
 
-- **2024–2026 – Algorithms and Programming** (Bachelor: ACSID)  
-  Topics: algorithmic thinking, problem solving, programming fundamentals, and object-oriented programming (OOP)
+- **2025–2026 – Advanced Programming** (Engineering Program – FIP2) – **CNAM Paris**  
+  Topics: design patterns, SOLID principles, dependency injection, advanced object-oriented programming (OOP), and software architecture.
 
-- **2024–2026 – Web Programming** (Bachelor: ACSID)  
-  Topics: web fundamentals, HTML, CSS, JavaScript, backend basics (PHP, MySQL)
+- **2024–2026 – Algorithms and Programming** (Bachelor's Program – ACSID) – **CNAM Paris**  
+  Topics: algorithmic thinking, problem solving, programming fundamentals, data structures, and object-oriented programming (OOP).
 
-- **2024–2025 – Internet of Things** (Engineering Program: FIP1) — Lab sessions only  
-  Topics: IoT architectures, communication protocols, experimentation, and system behavior
+- **2024–2026 – Web Programming** (Bachelor's Program – ACSID) – **CNAM Paris**  
+  Topics: web fundamentals, HTML, CSS, JavaScript, PHP, MySQL, and client-server architectures.
+
+- **2024–2025 – Internet of Things** (Engineering Program – FIP1) – **CNAM Paris** _(Lab sessions only)_  
+  Topics: IoT architectures, embedded systems, communication protocols, experimentation, sensor integration, and system behavior.

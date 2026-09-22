@@ -44,16 +44,20 @@ My research activities are driven by a strong interest in building reliable, tru
 ## Supervision Activities
 
 * **2025–Present – Thomas Spessot** – Engineering Student – **IRSM** *(Ongoing)*
+
     Topic: *Microsoft Intune Strategies within Pay.UK*.
 
 * **2025–2026 – Alternative Project Supervision** – **CNAM Paris**
 
   * **Group 1 (DSP08):** Pierre Herzog, Mathis Masset, and Lucila Vanhalle.
+
       Topic: *Design and Development of a Web Application for Dynamic Data Management in Role-Playing Games*.
   * **Group 2 (DSP09):** Christian Jin, Jacques Lin, and Jordan Moysan.
+
       Topic: *Design and Development of a Video Game E-Commerce Platform*.
 
 * **2023–2024 – Maya Benabdellatif** – Master's Student
+
     Topic: *Differentially Private Meta-Learning*.
 
 

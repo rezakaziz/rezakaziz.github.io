@@ -2,28 +2,31 @@
 date = '2026-01-23T11:15:39+01:00'
 draft = false
 title = 'Activities '
-description = 'DevOps engineer and researcher specializing in observability, reliability, cybersecurity, and privacy-preserving systems. Teaching and research in distributed systems and network security.'
+description = ''
 +++
 
-I’m an engineer who enjoys building systems where reliability, observability, security, and
-privacy are first-class concerns. My area of work are the following :
+I am an Associate Professor at Cnam Bretagne, where I carry out teaching, research, and engineering activities in cybersecurity.
 
-- **Observability & Reliability**
+My work lies at the intersection of cybersecurity, artificial intelligence, privacy, and distributed systems, combining academic research with practical engineering to develop secure, trustworthy, and resilient digital technologies.
 
-  > I design and operate observability foundations that make complex distributed
-  > systems understandable, detectable, and operable under real-world failure
-  > conditions.
+My activities focus on three complementary areas:
 
-- **Security & Detection**
+- **AI Security & Privacy**
 
-  > I work on detection and response mechanisms that help systems remain secure
-  > under adversarial conditions, focusing on visibility, verification, and
-  > operational effectiveness rather than assumptions.
+  > I investigate the security and privacy challenges of artificial intelligence, focusing on protecting AI systems 
+  > against adversarial threats, preserving sensitive information, and developing trustworthy and privacy-preserving 
+  > AI approaches.
 
-- **Privacy & Trust**
-  > I integrate privacy-preserving and verifiable mechanisms into distributed
-  > systems, with a focus on realistic threat models, performance trade-offs, and
-  > operational constraints.
+- **Cybersecurity & Threat Detection**
+
+  > I research and develop mechanisms for securing networks, systems, and applications, with a 
+  > particular focus on threat detection, security monitoring, trust modeling, and the application of 
+  > AI to cybersecurity.
+
+- **Secure & Reliable Systems Engineering**
+  > I design and evaluate secure and reliable distributed systems, integrating observability, 
+  > automation, privacy-enhancing technologies, and cryptographic mechanisms while considering 
+  > real-world operational constraints.
 
 ---
 
@@ -37,7 +40,30 @@ My research activities are driven by a strong interest in building reliable, tru
 - Cryptography and Zero-Knowledge Proofs for secure and verifiable systems.
 - Security, reliability, and observability of complex systems.
 
-📚 See my full list of publications on **[Google Scholar](https://scholar.google.fr/citations?user=ytCEAQIAAAAJ)**.
+### Current Research Directions
+
+My current research focuses on three complementary directions addressing security, privacy, and trust challenges in AI and distributed systems:
+
+- **Training Integrity and Trust in Participants' Behavior**
+
+  I am currently working with **Salah Bin Ruba**, a PhD student at the **CEDRIC Laboratory (Cnam)**, on mitigating **poisoning attacks in Federated Learning**, addressing the challenges posed by malicious participants during collaborative training.
+
+  I have also published research on the use of **Zero-Knowledge Proofs (ZKPs)** to attest to the correctness of training operations when participants cannot be trusted to follow the expected training protocol.
+
+- **Data Confidentiality and Privacy-Preserving Computation**
+
+  My research also explores **Secure Multi-Party Computation (MPC)**, **Homomorphic Encryption (HE)**, and **Differential Privacy (DP)** to enable collaborative learning and computation when participants cannot be trusted with access to sensitive data.
+
+- **Agentic AI Reliability and Risk Mitigation**
+
+  I am currently preparing research work with **Youakim Badr**, based in **Pennsylvania**, on assessing the **reliability and trustworthiness of AI agents in production environments**.
+
+  This work investigates approaches to evaluating the dependability of agentic AI systems, identifying security and operational risks, and developing strategies to mitigate failures and unsafe behaviors during real-world deployment.
+
+Together, these research directions address three complementary challenges: **verifying what AI participants do**, **protecting what they can learn about sensitive data**, and **ensuring that autonomous AI agents operate reliably and securely in production environments**.
+
+📚 See my full list of publications on **[Google Scholar](https://scholar.google.fr/citations?user=sfVG05sAAAAJ)**.
+
 
 ---
 

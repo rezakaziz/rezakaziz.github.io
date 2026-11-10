@@ -1004,22 +1004,22 @@ body {
   flex-direction: column;
 }
 .theme--light .notice {
-  background-color: rgb(191.4, 206.6, 225);
+  background-color: rgb(75.0588235294%, 81.0196078431%, 88.2352941176%);
 }
 .theme--dark .notice {
-  background-color: rgb(51, 72.8, 96);
+  background-color: rgb(20%, 28.5490196078%, 37.6470588235%);
 }
 .theme--light .notice--update {
-  background-color: rgb(185.4, 239.4, 208.2);
+  background-color: rgb(72.7058823529%, 93.8823529412%, 81.6470588235%);
 }
 .theme--dark .notice--update {
-  background-color: rgb(45, 105.6, 79.2);
+  background-color: rgb(17.6470588235%, 41.4117647059%, 31.0588235294%);
 }
 .theme--light .notice--warning {
-  background-color: rgb(248.6, 187.8, 186.2);
+  background-color: rgb(97.4901960784%, 73.6470588235%, 73.0196078431%);
 }
 .theme--dark .notice--warning {
-  background-color: rgb(108.2, 54, 57.2);
+  background-color: rgb(42.431372549%, 21.1764705882%, 22.431372549%);
 }
 .notice__title {
   background-color: #6086b4;

@@ -12,7 +12,7 @@ disableComments: false
 
 ## Introduction : la souveraineté numérique à l'épreuve du réel
 
-À l'occasion de l'[Open Innovation Camp 2026](https://www.images-et-reseaux.com/agenda/open-innovation-camp-le-numerique-a-lepreuve-du-reel/), organisé par le pôle Images & Réseaux à Rennes, j'ai assisté à une session intitulée « [Souveraineté & Cybersécurité : reprendre le contrôle de son environnement numérique](https://www.b2match.com/e/open-innovation-camp-2026/sessions/c2Vzc2lvbjoyMzIwMTQ=) ». Elle abordait notamment la maîtrise des dépendances numériques, les risques associés et les choix technologiques des organisations.
+À l'occasion de l'[Open Innovation Camp 2026](https://www.images-et-reseaux.com/agenda/open-innovation-camp-le-numerique-a-lepreuve-du-reel/), organisé par le pôle [Images & Réseaux](https://www.images-et-reseaux.com/) à Rennes, j'assistais à l'événement en tant que représentant du [Cnam Bretagne](https://www.cnam-bretagne.fr/). J'ai notamment suivi une session intitulée « [Souveraineté & Cybersécurité : reprendre le contrôle de son environnement numérique](https://www.b2match.com/e/open-innovation-camp-2026/sessions/c2Vzc2lvbjoyMzIwMTQ=) », animée par **Michael Benoit**, directeur de projet cybersécurité et RSSI au [Pôle Excellence Cyber](https://www.pole-excellence-cyber.org/). Cette intervention abordait notamment la maîtrise des dépendances numériques, les risques associés et les choix technologiques des organisations.
 
 Cette session m'a donné envie de revenir sur une notion que nous utilisons régulièrement sans toujours préciser ce qu'elle recouvre : la souveraineté numérique.
 
